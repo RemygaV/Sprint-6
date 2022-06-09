@@ -30,12 +30,12 @@ Project was made by raw PHP and raw CSS. This project was created for learning p
 *   Login to the app with preset user;
 *   Once logged in you will be able to access the file browser;
 *   On this file browser you will be able:
-    a) to create directories;
-    b) delete files and directories (just empty);
-    c) to upload files;
-    d) to download files;
-    e) to edit files and directories names;
-    f) to browse in this file browser app.
+    * to create directories;
+    * delete files and directories (just empty);
+    * to upload files;
+    * to download files;
+    * to edit files and directories names;
+    * to browse in this file browser app.
 
 ## Author:
 
